@@ -1,0 +1,7 @@
+C:\Proyectos\poke_utils\build\poke_utils\Config.json
+C:\Proyectos\poke_utils\build\poke_utils\poke_utils_sv.net.dll
+C:\Proyectos\poke_utils\build\poke_utils\poke_utils_sv.net.pdb
+C:\Proyectos\poke_utils\poke_utils_sv\obj\Debug\poke_utils_sv.csprojAssemblyReference.cache
+C:\Proyectos\poke_utils\poke_utils_sv\obj\Debug\poke_utils_sv.csproj.CoreCompileInputs.cache
+C:\Proyectos\poke_utils\poke_utils_sv\obj\Debug\poke_utils_sv.net.dll
+C:\Proyectos\poke_utils\poke_utils_sv\obj\Debug\poke_utils_sv.net.pdb

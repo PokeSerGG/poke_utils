@@ -1,0 +1,6 @@
+C:\Proyectos\poke_utils\build\poke_utils\poke_utils_cl.net.dll
+C:\Proyectos\poke_utils\build\poke_utils\poke_utils_cl.net.pdb
+C:\Proyectos\poke_utils\poke_utils_cl\obj\Debug\poke_utils_cl.csprojAssemblyReference.cache
+C:\Proyectos\poke_utils\poke_utils_cl\obj\Debug\poke_utils_cl.csproj.CoreCompileInputs.cache
+C:\Proyectos\poke_utils\poke_utils_cl\obj\Debug\poke_utils_cl.net.dll
+C:\Proyectos\poke_utils\poke_utils_cl\obj\Debug\poke_utils_cl.net.pdb
